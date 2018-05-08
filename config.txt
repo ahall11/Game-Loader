@@ -1,0 +1,8 @@
+#Write your steam location below you must have " at the begging and end of file location
+
+#Write up to four steam account, login then password, example: username123 password123
+
+
+
+
+#Write your four favorite websites on the four lines below, example: http://youtube.com/
